@@ -1,0 +1,87 @@
+h1 {
+  color: black;
+  background-color: #e9d151;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+body {
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+.karol {
+  margin-left: 400px;
+}
+
+.ley {
+  margin-left: 565px;
+}
+
+p {
+  margin-left: 100px;
+  margin-right:100px;
+  font-size: 16px
+}
+
+body {
+  color: white
+}
+
+body {
+  background-color: black
+}
+
+.irene {
+  margin-left: 200px
+}
+
+.charisse {
+  margin-left: 75px;
+}
+
+  .gillian {
+    margin-left: 100px
+  }
+
+  .harry {
+    margin-left: 185px;
+  }
+
+  .jubin {
+    margin-left: 190px;
+  }
+
+.kinder {
+    margin-right: 105px;
+  float: right;
+}
+
+.cap {
+  color: white;
+  border-style:solid; border-color: #e9d151; padding-top: 5px; padding-bottom: 5px; border-margin-top: 10px;
+  text-align: center;
+}
+
+.beth {
+  margin-left: 270px
+}
+
+.mari {
+  margin-left: 300px;
+}
+
+.nap {
+  margin-left: 250px
+}
+
+.leon {
+  margin-left: 150px;
+}
